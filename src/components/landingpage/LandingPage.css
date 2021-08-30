@@ -1,0 +1,206 @@
+.landing-page {
+  background-color: #fdfafa;
+  width: 100%;
+  padding-top: 10px;
+}
+.header-container {
+  width: 84%;
+  display: flex;
+  justify-content: space-between;
+  margin: 30px auto;
+}
+.header-container2 {
+  display: flex;
+}
+.header-p {
+  font-family: "Lato", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 27px;
+  text-transform: uppercase;
+}
+.lcard-container {
+  width: 80%;
+  margin: 70px auto 0px auto;
+}
+.lcard-container > h1 {
+  width: fit-content;
+  font-family: "Lato", sans-serif;
+  font-size: 3.33vw;
+  font-weight: 700;
+  line-height: 150%;
+  color: #060709;
+  text-align: center;
+  margin: 0px auto 24px auto;
+}
+.lcard-container > p {
+  width: 65%;
+  font-family: "Lato", sans-serif;
+  font-size: 1.25vw;
+  font-weight: 400;
+  line-height: 150%;
+  text-align: center;
+  color: #313335b2;
+  margin: 0px auto 24px auto;
+}
+.lcard2-container {
+  width: 84%;
+  display: flex;
+  margin: 47px auto 0px auto;
+}
+.Lcard-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.h3-heading {
+  font-family: "Lato", sans-serif;
+  font-size: 1.67vw;
+  font-weight: 700;
+  line-height: 2.5vh;
+  text-align: center;
+  color: #060709;
+  margin: 33px auto 16px auto;
+}
+.lcard2-p {
+  width: 70%;
+  height: 6.75vh;
+  margin: auto;
+  font-family: "Lato", sans-serif;
+  font-size: 0.833vw;
+  font-weight: 400;
+  line-height: 2vh;
+  text-align: center;
+  color: #313335b2;
+  margin-bottom: 106px;
+}
+.lcard3 {
+  width: 100%;
+  height: fit-content;
+  background-color: #e9f1f2;
+  display: flex;
+  justify-content: center;
+}
+.main-heading {
+  font-family: "Lato", sans-serif;
+  font-size: 2.08vw;
+  font-weight: 700;
+  line-height: 3.125vh;
+  text-align: center;
+  color: #060709;
+  margin: 50px 0 48px 0;
+}
+.sub-heading {
+  font-family: "Lato", sans-serif;
+  font-size: 1.667vw;
+  font-weight: 700;
+  line-height: 2.5vh;
+  text-align: center;
+  color: #060709cc;
+  margin-top: 32px;
+  margin-bottom: 16px;
+}
+.parag {
+  width: 16.375vw;
+  max-height: fit-content;
+  font-family: "Lato", sans-serif;
+  font-size: 0.833vw;
+  font-weight: 400;
+  text-align: center;
+  line-height: 3vh;
+  color: #313335b2;
+  margin-bottom: 35px;
+}
+.bckgd {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 3px solid #b5ccf5;
+  background-color: #16498c;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+.numb {
+  font-family: "Lato", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 42px;
+  text-align: center;
+  color: #ffffff;
+}
+.lcard4 {
+  width: 100%;
+  height: auto;
+  margin-bottom: 70px;
+}
+.lcard5 {
+  width: 100%;
+  height: fit-content;
+  background-color: #122a59;
+}
+#email-field {
+  width: 32vw;
+  height: 3.33vh;
+  border-radius: 5px;
+  background-color: #f8f8f8fa;
+  margin-bottom: 52px;
+}
+#email-field::placeholder {
+  font-family: "Lato", sans-serif;
+  font-size: 16px;
+  line-height: 27px;
+  font-weight: 400;
+  padding-left: 15px;
+}
+#lfooter {
+  width: 100%;
+  height: 12.1vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.form-select {
+  font-size: 14px;
+  width: 49vw;
+  height: 5.7vh;
+  border-radius: 5px;
+  margin: 0px 0 32px 0;
+  border: 1px solid gray;
+}
+.form-input {
+  max-width: 23.4vw;
+  height: 5.7vh;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+.form-input::placeholder {
+  font-family: "Lato", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  color: #000000;
+}
+.fieldcontainer {
+  width: 20vw;
+}
+
+.login-input {
+  width: 23vw;
+  height: 5.3vh;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+.login-input::placeholder {
+  font-family: "Lato", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  color: #000000;
+  padding-left: 10px;
+}
+.login-link {
+  font-family: "Lato", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #08072e;
+  margin-top: 10px;
+}

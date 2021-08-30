@@ -1,0 +1,111 @@
+{
+  "values": [
+    {
+      "companyType": "Aerospace",
+      "companyname": "Isaiah and Sons limited",
+      "logoimage": "C:\\fakepath\\566758279800.png",
+      "firstname": "Isaiah",
+      "lastname": "Oreva",
+      "email": "orevaisaiah@gmail.com",
+      "profileimage": "C:\\fakepath\\566758279800.png",
+      "password": "1234567",
+      "repassword": "1234567",
+      "termscheck": true,
+      "id": 1
+    },
+    {
+      "companyType": "Education",
+      "companyname": "iSAIAH",
+      "logoimage": "C:\\fakepath\\566758279800.png",
+      "firstname": "JDFDHSH",
+      "lastname": "JDJKDHGDHJ",
+      "email": "OREVA@GMAIL.COM",
+      "profileimage": "C:\\fakepath\\566758279800.png",
+      "password": "1234567",
+      "repassword": "1234567",
+      "termscheck": true,
+      "id": 2
+    },
+    {
+      "companyType": "Agriculture",
+      "companyname": "Idkahdhdjckcj dnhjj",
+      "logoimage": "C:\\fakepath\\566758279800.png",
+      "firstname": "ucx8iif",
+      "lastname": "hujkk",
+      "email": "oreva@gmail.com",
+      "profileimage": "C:\\fakepath\\566758279800.png",
+      "password": "123456",
+      "repassword": "123456",
+      "termscheck": true,
+      "id": 3
+    },
+    {
+      "companyType": "Agriculture",
+      "companyname": "oreva hsghg",
+      "logoimage": {},
+      "firstname": "isaiah",
+      "lastname": "isaiah",
+      "email": "oreva@gmail.com",
+      "profileimage": "C:\\fakepath\\566758279800.png",
+      "password": "1234567",
+      "repassword": "1234567",
+      "termscheck": true,
+      "id": 4
+    },
+    {
+      "companyType": "Aerospace",
+      "companyname": "FGHJJKK",
+      "logoimage": {},
+      "firstname": "DGHJK",
+      "lastname": "KJHGGD",
+      "email": "OREVAIAIAG@GMAIL.COM",
+      "profileimage": "C:\\fakepath\\566758279800.png",
+      "password": "12345678",
+      "repassword": "12345678",
+      "termscheck": true,
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "companyType": "Aerospace",
+      "companyname": "isaiah",
+      "logoimage": "C:\\fakepath\\566758279800.png",
+      "firstname": "isaiah",
+      "lastname": "isaiah",
+      "email": "isaiah@gmail.com",
+      "profileimage": "C:\\fakepath\\566758279800.png",
+      "password": "323232",
+      "repassword": "323232",
+      "termscheck": true,
+      "id": 7
+    },
+    {
+      "companyType": "Agriculture",
+      "companyname": "isaiah",
+      "logoimage": "C:\\fakepath\\566758279800.png",
+      "firstname": "isaiah",
+      "lastname": "isaiah",
+      "email": "isaiah@gmail.com",
+      "profileimage": "C:\\fakepath\\566758279800.png",
+      "password": "121212",
+      "repassword": "121212",
+      "termscheck": true,
+      "id": 8
+    },
+    {
+      "companyType": "Transport",
+      "companyname": "Reti company Limited",
+      "logoimage": "C:\\fakepath\\lavi-perchik-1qCSGzVEKKQ-unsplash.jpg",
+      "firstname": "isaiah",
+      "lastname": "isaiah",
+      "email": "oreva@gmail.com",
+      "profileimage": "C:\\fakepath\\lavi-perchik-1qCSGzVEKKQ-unsplash.jpg",
+      "password": "1234567",
+      "repassword": "1234567",
+      "termscheck": true,
+      "id": 9
+    }
+  ]
+}
